@@ -16,7 +16,8 @@ public class Esercitazione1 {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Prova");
-		
+		int a=100;
+		System.out.println("Volevo aggiungere questo numero: " + a);
 	}
 	
 }
